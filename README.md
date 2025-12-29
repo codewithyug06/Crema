@@ -59,45 +59,41 @@ crema/
 ```
 ---
 
-##🚀 Getting Started
+---
 
-**1. Prerequisites
-Node.js 20+
+## 🚀 Getting Started
 
-npm, yarn, or pnpm
+### 1. Prerequisites
+* [cite_start]**Node.js 20+** [cite: 1]
+* [cite_start]**npm, yarn, or pnpm** [cite: 1]
 
-**2. Installation
-Bash
-
+### 2. Installation
+```bash
 git clone [https://github.com/](https://github.com/)[your-repo]/crema.git
 cd crema
 npm install
-**3. Development
+[cite_start]``` [cite: 1]
+
+### 3. Development
 Run the development server:
-
-Bash
-
+```bash
 npm run dev
-Open http://localhost:3000 to view the application.
+[cite_start]``` [cite: 1]
+[cite_start]Open [http://localhost:3000](http://localhost:3000) to view the application. [cite: 1]
 
 ---
+
+## 🔮 Future Roadmap
+- [ ] **Burnout Shield (AI):** Proactive wellness nudges based on "Digital Exhaust" patterns.
+- [ ] **Smart Connect:** Vector-embedding based employee matching for coffee chats.
+- [ ] **The Widget Store:** A full marketplace for physical swag fulfillment and charity donations.
+- [ ] **HRIS Deep-Sync:** Automated directory integration with Workday and SAP.
+
 ---
 
-##🔮 Future Roadmap
-**[ ] Burnout Shield (AI): Proactive wellness nudges based on "Digital Exhaust" patterns.
+## 🛡️ Security & Privacy
+* **Multi-Tenant Isolation:** Secure data separation across company tenants.
+* **Consent-First Wellness:** Explicit user opt-in for all physical activity tracking features.
 
-**[ ] Smart Connect: Vector-embedding based employee matching for coffee chats.
-
-**[ ] The Widget Store: A full marketplace for physical swag fulfillment and charity donations.
-
-**[ ] HRIS Deep-Sync: Automated directory integration with Workday and SAP.
 ---
----
-
-##🛡️ Security & Privacy
-Multi-Tenant Isolation: Secure data separation across company tenants.
-
-Consent-First Wellness: Explicit user opt-in for all physical activity tracking features.
----
-
 © 2025 Crema. All rights reserved.
