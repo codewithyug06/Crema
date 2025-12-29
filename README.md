@@ -58,19 +58,20 @@ crema/
 
 ```
 
-🚀 Getting Started
-1. Prerequisites
+##🚀 Getting Started
+
+**1. Prerequisites
 Node.js 20+
 
 npm, yarn, or pnpm
 
-2. Installation
+**2. Installation
 Bash
 
 git clone [https://github.com/](https://github.com/)[your-repo]/crema.git
 cd crema
 npm install
-3. Development
+**3. Development
 Run the development server:
 
 Bash
@@ -78,16 +79,16 @@ Bash
 npm run dev
 Open http://localhost:3000 to view the application.
 
-🔮 Future Roadmap
-[ ] Burnout Shield (AI): Proactive wellness nudges based on "Digital Exhaust" patterns.
+##🔮 Future Roadmap
+**[ ] Burnout Shield (AI): Proactive wellness nudges based on "Digital Exhaust" patterns.
 
-[ ] Smart Connect: Vector-embedding based employee matching for coffee chats.
+**[ ] Smart Connect: Vector-embedding based employee matching for coffee chats.
 
-[ ] The Widget Store: A full marketplace for physical swag fulfillment and charity donations.
+**[ ] The Widget Store: A full marketplace for physical swag fulfillment and charity donations.
 
-[ ] HRIS Deep-Sync: Automated directory integration with Workday and SAP.
+**[ ] HRIS Deep-Sync: Automated directory integration with Workday and SAP.
 
-🛡️ Security & Privacy
+##🛡️ Security & Privacy
 Multi-Tenant Isolation: Secure data separation across company tenants.
 
 Consent-First Wellness: Explicit user opt-in for all physical activity tracking features.
