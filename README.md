@@ -68,13 +68,14 @@ Node.js 20+
 
 npm, yarn, or pnpm
 
-###2. Installation
+### 2. Installation
 Bash
 
 git clone [https://github.com/codewithyug06/crema.git](https://github.com/codewithyug06/crema.git)
 cd crema
 npm install
-###3. Development
+
+### 3. Development
 Run the development server:
 
 Bash
