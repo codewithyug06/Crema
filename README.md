@@ -57,6 +57,7 @@ crema/
 └── tailwind.config.ts  # Design system configuration
 
 ```
+---
 
 ##🚀 Getting Started
 
@@ -79,6 +80,9 @@ Bash
 npm run dev
 Open http://localhost:3000 to view the application.
 
+---
+---
+
 ##🔮 Future Roadmap
 **[ ] Burnout Shield (AI): Proactive wellness nudges based on "Digital Exhaust" patterns.
 
@@ -87,10 +91,13 @@ Open http://localhost:3000 to view the application.
 **[ ] The Widget Store: A full marketplace for physical swag fulfillment and charity donations.
 
 **[ ] HRIS Deep-Sync: Automated directory integration with Workday and SAP.
+---
+---
 
 ##🛡️ Security & Privacy
 Multi-Tenant Isolation: Secure data separation across company tenants.
 
 Consent-First Wellness: Explicit user opt-in for all physical activity tracking features.
+---
 
 © 2025 Crema. All rights reserved.
