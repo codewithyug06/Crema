@@ -56,6 +56,7 @@ crema/
 ├── public/             # Static assets (SVG Icons, Global Styles)
 └── tailwind.config.ts  # Design system configuration
 
+```
 
 🚀 Getting Started
 1. Prerequisites
