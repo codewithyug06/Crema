@@ -64,36 +64,40 @@ crema/
 ## 🚀 Getting Started
 
 ### 1. Prerequisites
-* [cite_start]**Node.js 20+** [cite: 1]
-* [cite_start]**npm, yarn, or pnpm** [cite: 1]
+Node.js 20+
 
-### 2. Installation
-```bash
-git clone [https://github.com/](https://github.com/)[your-repo]/crema.git
+npm, yarn, or pnpm
+
+###2. Installation
+Bash
+
+git clone [https://github.com/codewithyug06/crema.git](https://github.com/codewithyug06/crema.git)
 cd crema
 npm install
-[cite_start]``` [cite: 1]
-
-### 3. Development
+###3. Development
 Run the development server:
-```bash
+
+Bash
+
 npm run dev
-[cite_start]``` [cite: 1]
-[cite_start]Open [http://localhost:3000](http://localhost:3000) to view the application. [cite: 1]
+Open http://localhost:3000 to view the application.
+
+---
 
 ---
 
 ## 🔮 Future Roadmap
-- [ ] **Burnout Shield (AI):** Proactive wellness nudges based on "Digital Exhaust" patterns.
-- [ ] **Smart Connect:** Vector-embedding based employee matching for coffee chats.
-- [ ] **The Widget Store:** A full marketplace for physical swag fulfillment and charity donations.
-- [ ] **HRIS Deep-Sync:** Automated directory integration with Workday and SAP.
+- [ ] **Burnout Shield (AI):** Proactive wellness nudges based on "Digital Exhaust" patterns analyzed via Gemini AI.
+- [ ] **Smart Connect:** Vector-embedding based employee matching for automated coffee chat scheduling.
+- [ ] **The Widget Store:** A full marketplace to redeem **Impact Points** for physical swag and global charity donations.
+- [ ] **HRIS Deep-Sync:** Automated directory integration with enterprise platforms like Workday and SAP.
 
 ---
 
 ## 🛡️ Security & Privacy
-* **Multi-Tenant Isolation:** Secure data separation across company tenants.
-* **Consent-First Wellness:** Explicit user opt-in for all physical activity tracking features.
+* **Multi-Tenant Isolation:** Secure data separation ensuring absolute privacy between different company tenants.
+* **Consent-First Wellness:** Explicit user opt-in is required for all physical activity and health-syncing features.
+* **Authentication:** Secure enterprise-grade login flows integrated with Google Workspace APIs.
 
 ---
 © 2025 Crema. All rights reserved.
